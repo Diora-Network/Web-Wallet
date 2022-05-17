@@ -1,13 +1,13 @@
 <template>
   <div class="earndefi">
     <div v-if="isReward || isRequested">
-      We sent 15 DEFI to your wallet.<br/>Each wallet can only receive once
+      We sent 15 DIOR to your wallet.<br/>Each wallet can only receive once
     </div>
     <div v-else-if="error" style="color: red;">
       ERROR: {{error}}
     </div>
     <div v-else>
-      <div>Hello friends, click <b>Request</b> button bellow to receive your first DEFI</div>
+      <div>Hello friends, click <b>Request</b> button bellow to receive your first DIOR</div>
       <button class="btn-big btn-black mt50" @click="request">{{isRequesting ? 'requesting' : 'request'}}</button>
     </div>
   </div>

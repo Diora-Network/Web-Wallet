@@ -2,7 +2,7 @@
   <div class="account">
     <Address :address="address" @detailClick="$emit('detailClick')" />
     <div class="account-balance">
-      <div class="fs15 text-right" style="color: #59fbaa">Network: <b>DefiChain</b></div>
+      <div class="fs15 text-right" style="color: #59fbaa">Network: <b>Diora</b></div>
       <div class="account-balance-container">
         <div class="account-balance-number text-center" :style="{'font-size': `${balanceSize}px`}">
           <animated-number
@@ -11,7 +11,7 @@
           :duration="500"
           />
         </div>
-        <div class="account-balance-symbol text-center">DEFI</div>
+        <div class="account-balance-symbol text-center">DIOR</div>
       </div>
     </div>
     <div class="menu">
@@ -24,7 +24,7 @@
       </div>
       <div class="menu-line"></div>
       <div class="menu-item" @click="$emit('earnClick')">
-        <fa icon="coins" class="fs25"/> <span class="ml30">Earn DEFI to test</span>
+        <fa icon="coins" class="fs25"/> <span class="ml30">Claim DIOR from Faucet</span>
       </div>
     </div>
   </div>

@@ -16,7 +16,7 @@
         <div :style="{opacity: errorAddress ? 1 : 0}" class="transfer-error text-right mt5">{{errorAddress || '&nbsp;'}}</div>
       </div>
 
-      <div class="fs16 mt30">Amount (Not include Tx Fee: {{ fee }} DEFI)</div>
+      <div class="fs16 mt30">Amount (Not include Tx Fee: {{ fee }} DIOR)</div>
       <div>
         <input
           ref="amountInput"

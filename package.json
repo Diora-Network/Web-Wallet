@@ -1,7 +1,7 @@
 {
-	"name": "defiwallet",
+	"name": "diorawallet",
 	"version": "0.1.0",
-	"description": "Simple Wallet for sending/receiving DEFI",
+	"description": "Simple Wallet for sending/receiving DIOR",
 	"scripts": {
 		"lint-fix": "./node_modules/.bin/eslint --cache --fix ./",
 		"lint": "./node_modules/.bin/eslint --cache ./",

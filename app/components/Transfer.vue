@@ -16,14 +16,14 @@
         <div :style="{opacity: errorAddress ? 1 : 0}" class="transfer-error text-right mt5">{{errorAddress || '&nbsp;'}}</div>
       </div>
 
-      <div class="fs16 mt30">Amount (Not include Tx Fee: 0.005 DEFI)</div>
+      <div class="fs16 mt30">Amount (Not include Tx Fee: 0.005 DIOR)</div>
       <div>
         <input
           ref="amountInput"
           type="number" class="transfer-amount"
           placeholder="0"
           @change="changeAmount">
-        <div class="transfer-symbol">DEFI</div>
+        <div class="transfer-symbol">DIOR</div>
         <div :style="{opacity: errorAmount ? 1 : 0}"  class="transfer-error text-right mt15">{{errorAmount || '&nbsp;'}}</div>
       </div>
       <div :style="{opacity: error ? 1 : 0}" class="transfer-error text-center mt15">{{error || '&nbsp;'}}</div>
