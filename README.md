@@ -1,4 +1,5 @@
 # DIORA HOT WALLET
+a hot wallet for Diora Network. You can receive, send and claim some test tokens
 
 ## Requirements
     - NodeJS
