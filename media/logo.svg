@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 45 45" style="enable-background:new 0 0 45 45;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+</style>
+<title>Page 1 Copy</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1_2_">
+	<g id="Stick-menu-bar_1_">
+		<g id="Page-1-Copy_1_">
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8.807" y1="24.0737" x2="8.7395" y2="8.6855">
+				<stop  offset="0" style="stop-color:#009A93"/>
+				<stop  offset="1" style="stop-color:#29FD88"/>
+			</linearGradient>
+			<rect x="4.4" y="1.2" class="st0" width="8.6" height="10.2"/>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="4.4263" y1="29.0501" x2="42.4263" y2="29.0501">
+				<stop  offset="0" style="stop-color:#003E9A"/>
+				<stop  offset="1" style="stop-color:#29FD88"/>
+			</linearGradient>
+			<path class="st1" d="M28.6,31c0,0,11.3-3.1,12.2-16.7c0,0,2.8,5.5,1,13.2c-1.7,6.8-7.6,15.3-19.4,16.3l-18,0V29.2h5
+				c0,0,1.7,3.4,6.7,4.9C20.4,35.4,25.2,34.3,28.6,31z"/>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="18.0732" y1="16.1827" x2="40.8721" y2="16.1827">
+				<stop  offset="0" style="stop-color:#601FCF"/>
+				<stop  offset="0.2838" style="stop-color:#3A1BCC"/>
+				<stop  offset="1" style="stop-color:#1418CA"/>
+			</linearGradient>
+			<path class="st2" d="M21.2,1.2L18.1,10l0.1,0.2c0.5-0.1,1-0.1,1.6-0.1c1.9,0,3.8,0.4,5.4,1.3h0.1v0c4.1,2,6.9,6.2,6.9,11.1
+				c0,3.4-1.4,6.5-3.7,8.7C28.8,31,39.6,28,40.9,14.6C40.2,11.4,33.4,1.2,21.2,1.2z"/>
+		</g>
+	</g>
+</g>
+</svg>

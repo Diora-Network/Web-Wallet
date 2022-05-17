@@ -1,0 +1,22 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "port": 3000
+  },
+  "db": {
+    "uri": "mongodb://mongodb:27017/wallets"
+  },
+  "redis": {
+      "host": "redis",
+      "port": "6379",
+      "password": null,
+      "prefix": "DioraWallet"
+  },
+  "blockchain": {
+    "rpc": "https://test.diora.network",
+    "privateRpc": "https://test.diora.network",
+    "explorer": "https://test.diora.network",
+    "networkId": "201"
+  },
+  "privateKey": "xxx"
+}
