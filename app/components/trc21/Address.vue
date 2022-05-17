@@ -1,6 +1,6 @@
 <template>
   <div class="account-header">
-    <h1 class="white text-center">DEFI WALLET</h1>
+    <h1 class="white text-center">Diora Wallet</h1>
     <div class="mt40">
       <div class="flex">
         <div class="account-header-qr">

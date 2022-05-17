@@ -3,7 +3,7 @@
     <div class="text-center">
       <img src="/media/logo.svg" width="50px" class="mb20"/>
     </div>
-    <h1 class="white">Defi Wallet</h1>
+    <h1 class="white">Diora Wallet</h1>
     <div class="white">Network: DefiChain</div>
     <div v-if="!isImporting">
       <div class="white text-align center mt50 mb50">

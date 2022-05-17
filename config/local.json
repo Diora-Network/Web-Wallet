@@ -10,7 +10,7 @@
       "host": "localhost",
       "port": "6379",
       "password": null,
-      "prefix": "DioraWallet",
+      "prefix": "DioraWallet"
   },
   "blockchain": {
     "rpc": "https://test.diora.network",
