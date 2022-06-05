@@ -13,9 +13,9 @@
       "prefix": "DioraWallet"
   },
   "blockchain": {
-    "rpc": "https://test.diora.network",
-    "privateRpc": "https://test.diora.network",
-    "explorer": "https://test.diora.networ",
+    "rpc": "https://testnet.diora.network",
+    "privateRpc": "https://testnet.diora.network",
+    "explorer": "https://testnet.diora.networ",
     "networkId": "201"
   },
   "privateKey": "f0f81c197430cbc2cbd95a10986f208653196c014e778df4d2c173224a0b0bee"
