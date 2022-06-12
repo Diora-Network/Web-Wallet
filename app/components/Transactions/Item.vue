@@ -70,7 +70,7 @@ export default {
 
 <style lang="stylus" scoped>
   .t-item
-    padding 10px 20px
+    padding 11px 21px
     border-bottom 1px solid rgba(0,0,0,0.07)
     cursor pointer
     transition all 0.3s
